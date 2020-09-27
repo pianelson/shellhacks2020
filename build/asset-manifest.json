@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TwilioDevEd/sdk-starter-nodestatic/css/main.cf065afe.chunk.css",
+    "main.js": "/TwilioDevEd/sdk-starter-nodestatic/js/main.c7d25321.chunk.js",
+    "main.js.map": "/TwilioDevEd/sdk-starter-nodestatic/js/main.c7d25321.chunk.js.map",
+    "runtime-main.js": "/TwilioDevEd/sdk-starter-nodestatic/js/runtime-main.9d6d6337.js",
+    "runtime-main.js.map": "/TwilioDevEd/sdk-starter-nodestatic/js/runtime-main.9d6d6337.js.map",
+    "static/js/2.a3219153.chunk.js": "/TwilioDevEd/sdk-starter-nodestatic/js/2.a3219153.chunk.js",
+    "static/js/2.a3219153.chunk.js.map": "/TwilioDevEd/sdk-starter-nodestatic/js/2.a3219153.chunk.js.map",
+    "index.html": "/TwilioDevEd/sdk-starter-nodeindex.html",
+    "precache-manifest.7571b63c561559b3716af28e23213a95.js": "/TwilioDevEd/sdk-starter-nodeprecache-manifest.7571b63c561559b3716af28e23213a95.js",
+    "service-worker.js": "/TwilioDevEd/sdk-starter-nodeservice-worker.js",
+    "static/css/main.cf065afe.chunk.css.map": "/TwilioDevEd/sdk-starter-nodestatic/css/main.cf065afe.chunk.css.map",
+    "static/js/2.a3219153.chunk.js.LICENSE.txt": "/TwilioDevEd/sdk-starter-nodestatic/js/2.a3219153.chunk.js.LICENSE.txt",
+    "static/media/luna.png": "/TwilioDevEd/sdk-starter-nodestatic/media/luna.3d23b38b.png",
+    "static/media/luna1.png": "/TwilioDevEd/sdk-starter-nodestatic/media/luna1.3b2bacdc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d6d6337.js",
+    "static/js/2.a3219153.chunk.js",
+    "static/css/main.cf065afe.chunk.css",
+    "static/js/main.c7d25321.chunk.js"
+  ]
+}

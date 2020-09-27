@@ -7,9 +7,8 @@ import {
 } from "react-router-dom";
 import luna from './luna.png';
 import luna1 from './luna1.png';
-import resources from './resources.png';
 import Footer from './footer.js';
-import { Button } from "react-bootstrap";
+
 
 export default function App() {
   return (
@@ -17,7 +16,7 @@ export default function App() {
       <div>
       <header>
       <nav class="navbar navbar-light bg-light">
-   <a class="navbar-brand" href="#"><span class="mb-0 h1">Luna</span></a>
+   <Link to="/chat" class="mb-0 h1">Luna</Link>
    <nav className="">
    <button className="btn btn-default"
               style={{margin: '10px 10px 10px 0'}}>
@@ -157,7 +156,7 @@ function Home() {
           <div class="col-lg-7">
             <h1 class="font-weight-light">Welcome</h1>
             <p> <h5 class="font-weight-light">
-                Having trouble processing what you're feeling? Luna is here to help.
+                Having a hard time processing what you're feeling? Luna is here to help.
                 </h5>
             </p>
 
