@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #03032b;
+  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
@@ -35,53 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.navbar
-{
-  font-family: 'Lato' !important;
-  color:grey;
-  font-size: 16px;
-  margin: 6px;
-}
-
-.h1
-{
-  color:#262262;
-  font-size: 30px;
-  margin: 2px;
-  text-align: center;
-  justify-self: center;
-  justify-content: center;
-}
-
-.Link 
-{
-  color:#262262 !important;
-  font-style: italic;
-}
-
-.button
-{
-  color:#262262 !important;
-  font-style: italic;
-  border-color: #c9c9ee;
-  font-size: 18px;
-}
-
-.card 
-{
-  border-color: #f1d3eb;
-  box-shadow: #ffffff;
-  justify-self: center;
-  justify-content: center;
-  text-align: center;
-}
-
-.img 
-{
-  justify-self: center;
-  justify-content: center;
-  align-items: center;
-  flex-shrink: inherit;
 }

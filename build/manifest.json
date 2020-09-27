@@ -8,18 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "luna.png",
+      "src": "logo192.png",
       "type": "image/png",
-      "sizes": "50x50"
+      "sizes": "192x192"
     },
     {
-      "src": "luna2.png",
+      "src": "logo512.png",
       "type": "image/png",
-      "sizes": "50x50"
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#C9C9EE",
-  "background_color": "#262262"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
