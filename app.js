@@ -9,6 +9,7 @@ const bodyParser = require('body-parser');
 const router = require('./src/router');
 const syncServiceDetails = require('./src/sync_service_details');
 
+const front = require('.src/index.js');
 // Create Express webapp
 const app = express();
 app.use(express.static(path.join(__dirname, 'public')));
@@ -17,6 +18,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
+app.use(front);
 app.use(router);
 
 // Get Sync Service Details for lazy creation of default service if needed

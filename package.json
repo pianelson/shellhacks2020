@@ -1,24 +1,24 @@
 {
-  "name": "sdk-starter-node",
+  "name": "luna",
   "version": "1.0.0",
   "description": "ShellHacks Project",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js & react-scripts start",
+    "start": "react-scripts start",
     "test": "NODE_ENV=test && jest & react-scripts test",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TwilioDevEd/sdk-starter-node.git"
+    "url": ""
   },
-  "author": "Twilio Developer Education",
+  "author": "Pia Nelson, Anika Patel, Olasubomi Olawepo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TwilioDevEd/sdk-starter-node/issues"
+    "url": "https://github.com/pianelson/shellhacks2020"
   },
-  "homepage": "https://github.com/TwilioDevEd/sdk-starter-node#readme",
+  "homepage": "https://localhost:3000/chat",
   "dependencies": {
     "body-parser": "^1.19.0",
     "camelcase": "^6.0.0",
